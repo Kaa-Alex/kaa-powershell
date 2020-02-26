@@ -1,0 +1,1 @@
+﻿gci D:\Downloads\temp\ | Select-Object Name
