@@ -1,2 +1,2 @@
 # kaa-powershell
-Powershell scripts
+Powershell scripts for Windows, automation + administration.
